@@ -1,4 +1,4 @@
-# helptofight
+# ShopSafely.Us
 Containment Resource for fighting Covid 19.
 
 # Where to Shop Safely during Covid-19 
